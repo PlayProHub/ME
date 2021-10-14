@@ -1,15 +1,16 @@
 {
   "bot": {
-    "name": "Xayah",
-    "token": "",
+    "name": "PlayProHub",
+    "token": "ODk3ODYxNjE4MzgwMTg5Njk2.YWb0yw.mgFhjUPimMajJD8SO1qmiPGqLPY",
     "owners": [
+      "524393395003588618"
     ],
     "delete_cmd_messages": true,
     "default_cmd_prefix": ".",
     "activity_text": "use .help command"
   },
   "youtube": {
-    "token": "",
+    "token": "AIzaSyCpD-yFG2uxlMxC2wuxsVurkOHXfP4BC3E",
     "base_url": "https://www.youtube.com"
   }
 }
